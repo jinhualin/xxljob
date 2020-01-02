@@ -7,9 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.boot.builder.SpringApplicationBuilder;
 import org.springframework.boot.web.support.SpringBootServletInitializer;
 
-/**
- * @author xuxueli 2018-10-28 00:38:13
- */
+
 @SpringBootApplication
 public class XxlJobAdminApplication{
 
